@@ -1,0 +1,2 @@
+# LIDL-COVID
+COVID-19 Tracker App for LIDL
